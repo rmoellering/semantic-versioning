@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rmoellering/semantic-versioning/issues"
   },
-  "homepage": "https://github.com/rmoellering/semantic-versioning#readme"
+  "homepage": "https://github.com/rmoellering/semantic-versioning#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.3"
+  }
 }
