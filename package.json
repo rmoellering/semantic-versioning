@@ -20,9 +20,7 @@
   "devDependencies": {
     "semantic-release": "^19.0.3"
   },
-  {
-    "release": {
-      "branches": ["main"]
-    }
+  "release": {
+    "branches": ["main"]
   }
 }
