@@ -19,7 +19,7 @@
   "homepage": "https://github.com/rmoellering/semantic-versioning#readme",
   "devDependencies": {
     "semantic-release": "^19.0.3"
-  }
+  },
   {
     "release": {
       "branches": ["main"]
