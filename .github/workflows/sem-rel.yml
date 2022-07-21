@@ -1,13 +1,10 @@
 name: Release
 on:
-  pull_request:
-    types:
-      - closed
+  push::
     branches:
       - main
 jobs:
-  release_if_merged:
-    if: github.event.pull_request.merged == true
+  release:
     name: Release
     runs-on: ubuntu-latest
     environment: env_1
