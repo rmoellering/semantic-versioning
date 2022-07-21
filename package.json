@@ -23,7 +23,8 @@
   "release": {
     "branches": [
       "main"
-    ]
+    ],
+    "ci": true
   },
   "private": true,
   "dependencies": {
