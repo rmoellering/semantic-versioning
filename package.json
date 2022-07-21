@@ -21,7 +21,12 @@
     "semantic-release": "^19.0.3"
   },
   "release": {
-    "branches": ["main"]
+    "branches": [
+      "main"
+    ]
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "commitizen": "^4.2.5"
+  }
 }
